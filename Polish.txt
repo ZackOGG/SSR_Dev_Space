@@ -1,1 +1,7 @@
 Make it so if you dont take the item then the npc knows and changes to a self switch 
+
+Animation when you first equip an animation to sync up
+
+Handle better when you sell to a full inventory npc
+
+Test money 
